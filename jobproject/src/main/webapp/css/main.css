@@ -31,6 +31,7 @@
 	border: 1px solid black;
 	font-size: 1.7rem;
 	padding: 1rem;
+	cursor: pointer;
 }
 
 .main_content_list li:first-child {
@@ -50,4 +51,25 @@
 
 .job_wrapper>div {
 	border: 1px solid black;
+}
+
+.main_content_list li:hover {
+	background-color: lightblue;
+}
+
+.floating-menu {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	background-color: #fff;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.main_content_list li.clicked {
+	background: linear-gradient(145deg, rgba(86, 174, 214, 1) 15%,
+		rgba(0, 144, 208, 1) 100%);
+	color: white;
 }
