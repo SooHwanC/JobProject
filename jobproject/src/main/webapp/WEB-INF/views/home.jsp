@@ -20,20 +20,32 @@
 				<h1>채용공고</h1>
 			</section>
 			<section class="main_content">
-				<ul class="main_content_list floating-menu">
-					<li>
+				<ul class="main_content_list">
+					<li data-section="section1">
 						<p>취업연계</p>
 					</li>
-					<li>
+					<li data-section="section2">
 						<p>사람인</p>
 					</li>
-					<li>
+					<li data-section="section3">
+						<p>잡코리아</p>
+					</li>
+				</ul>
+
+				<ul class="main_content_list_float">
+					<li data-section="section1">
+						<p>취업연계</p>
+					</li>
+					<li data-section="section2">
+						<p>사람인</p>
+					</li>
+					<li data-section="section3">
 						<p>잡코리아</p>
 					</li>
 				</ul>
 			</section>
 
-			<section class="section1">
+			<section id="section1">
 				<p>취업연계</p>
 				<div class="job_wrapper">
 					<div>
@@ -111,7 +123,7 @@
 
 				</div>
 			</section>
-			<section class="section2">
+			<section id="section2">
 				<p>사람인</p>
 				<div class="job_wrapper">
 					<div>
