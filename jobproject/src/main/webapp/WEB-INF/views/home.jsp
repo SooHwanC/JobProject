@@ -48,78 +48,139 @@
 			<section id="section1">
 				<p>취업연계</p>
 				<div class="job_wrapper">
-					<div>
-						<img src="img/front.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/front.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/back.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/front.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/front.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/front.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/back.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/front.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/front.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/back.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/front.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
-					<div>
-						<img src="img/front.PNG" />
-						<p>우아한형제들</p>
-						<p>부문별 경력/신입 인재영입</p>
-						<p>D-5</p>
+					<div class="job_item">
+						<div class="job_info">
+							<img src="img/front.PNG" />
+							<p>우아한형제들</p>
+							<p>부문별 경력/신입 인재영입</p>
+							<p>D-5</p>
+						</div>
+						<div class="job_detail">
+							<h1>Detail</h1>
+						</div>
 					</div>
+
 
 				</div>
 			</section>

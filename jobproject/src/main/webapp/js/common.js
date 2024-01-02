@@ -19,6 +19,8 @@ $(document).ready(function() {
 
 		// 클릭된 li 태그의 data-section 속성 값을 가져옴
 		var section = $(this).attr('data-section');
+		
+		console.log("섹션확인", section);
 
 		// 해당 섹션으로 부드럽게 스크롤링
 		$('html, body').animate({
@@ -47,6 +49,17 @@ $(document).ready(function() {
 		}
 	});
 });
+
+$(document).ready(function() {
+    $('.job_item').hover(function() {
+        $(this).find('.job_info').hide();
+        $(this).find('.job_detail').show();
+    }, function() {
+        $(this).find('.job_detail').hide();
+        $(this).find('.job_info').show();
+    });
+});
+
 
 
 
