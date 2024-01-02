@@ -63,6 +63,20 @@
 				</div>
 			</section>
 
+			<!-- 모달 -->
+			<div id="modal">
+
+				<div class="modal_content">
+					<img src="img/sicc.png"/>
+
+					<button type="button" id="modal_close_btn">닫기</button>
+
+				</div>
+
+				<div class="modal_layer"></div>
+			</div>
+			<!-- 모달 -->
+
 			<section id="section1">
 				<h2>취업연계</h2>
 				<div class="job_wrapper">
@@ -70,13 +84,16 @@
 						<div class="job_info">
 							<img src="img/front.PNG" />
 							<div>
-								<p>우아한형제들</p>
-								<p>부문별 경력/신입 인재영입</p>
+								<p>쌍용정보통신</p>
+								<p>우정사업정보센터 우편물류시스템 개발</p>
 								<p>D-5</p>
 							</div>
 						</div>
 						<div class="job_detail">
-							<h1>Detail</h1>
+							<p>학력 : 무관</p>
+							<p>지역 : 나주</p>
+							<p>연봉 : 3,000만원</p>
+							<p>자격요건 : 자바, 자바스크립트 가능자</p>
 						</div>
 					</div>
 					<div class="job_item">
@@ -227,7 +244,7 @@
 			<section id="section2">
 				<h2>사람인</h2>
 				<div class="job_wrapper">
-					<div class="job_item">
+					<div class="job_item_sramin">
 						<div class="job_info">
 							<img src="img/front.PNG" />
 							<div>
