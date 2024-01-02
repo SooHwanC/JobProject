@@ -23,7 +23,7 @@ $(document).ready(function() {
 		// 해당 섹션으로 부드럽게 스크롤링
 		$('html, body').animate({
 			scrollTop: $('#' + section).offset().top
-		}, 'slow');
+		}, 'slow'); 
 	});
 
 
